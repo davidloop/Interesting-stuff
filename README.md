@@ -5,3 +5,7 @@
 <p>&nbsp;</p>
 
 [Smooth Shadow](https://shadows.brumm.af)
+
+<p>&nbsp;</p>
+
+[Cognitive Bias](https://cognitivebias.io)
