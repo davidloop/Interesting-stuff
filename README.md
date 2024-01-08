@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 
 [Fluid Responsive Design](https://utopia.fyi)<br>
-[Modern fluid typography editor](https://modern-fluid-typography.vercel.app)<br>
+[Fluid Typography Editor](https://modern-fluid-typography.vercel.app)<br>
 [Smooth Shadow](https://shadows.brumm.af)<br>
 [Handy CSS](https://levelup.gitconnected.com/css-functions-that-help-you-design-modern-frontends-5ba7f4eaf018)
 
